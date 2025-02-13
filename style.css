@@ -35,7 +35,7 @@
 
 
 .info-box {
-	width: 540px;
+	width: 300px;
 	background-color: #fff;
 	border-radius: 5px;
 	transform: translate(-50%,-50%) scale(0.9);
@@ -85,7 +85,7 @@
 }
 
 .quiz-box {
-	width: 550px;
+	width: 300px;
 	background-color: #fff;
 	border-radius: 5px;
 	transform: translate(-50%, -50%) scale(0.9);
