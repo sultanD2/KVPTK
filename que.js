@@ -119,5 +119,35 @@ let questions = [
 			'video',
 			'media'
 		]
-	}
+	}, 	{
+		numb: 13,
+		question: 'Какой тег используется для создания выпадающего списка?',
+		answer: 'select',
+		options: [
+			'list',
+			'select',
+			'dropdown',
+			'option'
+		]
+	}, 	{
+		numb: 14,
+		question: 'Какой атрибут задаёт цвет текста в HTML?',
+		answer: 'style',
+		options: [
+			'color',
+			'text-color',
+			'font-color',
+			'style'
+		]
+	}, 	{
+		numb: 15,
+		question: 'Какой тег используется для создания горизонтальной линии?',
+		answer: 'hr',
+		options: [
+			'line',
+			'hr',
+			'border',
+			'br'
+		]
+	},
 ]
